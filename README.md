@@ -3,7 +3,7 @@
 
 # Hi, I'm Marc Josef  <img src="https://media.tenor.com/MofnrWSN_4QAAAAj/jango-fett-star-wars-pixels.gif" width="30"> <img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" width="30">
 
-**`Cyber Security Specialist`**
+**`Junior Web Developer`**
 
 <h3 align="left">About me:</h3>  
 
