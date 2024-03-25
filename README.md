@@ -16,7 +16,9 @@
   
 - 📫 How to reach me **conananmarc@gmail.com**  
   
-- 📄 Know about my experiences by visiting my [Linkedin](www.linkedin.com/in/marc-josef-conanan-6a5ba6254) or by sending me an email. 
+- 📄 Know about my experiences by visiting my [Linkedin](www.linkedin.com/in/marc-josef-conanan-6a5ba6254) or by sending me an email.
+
+- I'm currently working on [Essence Lab website](https://github.com/RobertoFavaro/essenceLabTeam3) 
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">
