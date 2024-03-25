@@ -6,9 +6,10 @@
 **`Junior Web Developer`**
 
 <h3 align="left">About me:</h3>  
-*  🌍  I'm based in Milan, Italy
 
-- 🌱 I’m currently learning **Java, SQL, Springboot**  
+- 🌱 I’m currently learning **Java, SQL, Springboot**
+  
+- 🌍 I'm based in Milan, Italy
   
 - 👨‍💻 All of my projects are available [here on Github](https://github.com/marcjosefconanan)  
   
