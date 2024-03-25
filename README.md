@@ -1,7 +1,7 @@
 <img alt="Coding" width="100%" height="250" style="margin-bottom: 20px" src="https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif">
-<p> <img src="https://komarev.com/ghpvc/?username=ic3man31&label=Profile%20views&color=0e75b6&style=flat" alt="ic3man31" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=ic3man31&label=Profile%20views&color=0e75b6&style=flat" alt="marcjosefconanan" /> </p>
 
-# Hi, I'm John  <img src="https://media.tenor.com/MofnrWSN_4QAAAAj/jango-fett-star-wars-pixels.gif" width="30"> <img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" width="30">
+# Hi, I'm Marc Josef  <img src="https://media.tenor.com/MofnrWSN_4QAAAAj/jango-fett-star-wars-pixels.gif" width="30"> <img src="https://media.tenor.com/Z4Ks69TQz0wAAAAi/hacker-pepe.gif" width="30">
 
 
 **`Junior Web Developer`**
