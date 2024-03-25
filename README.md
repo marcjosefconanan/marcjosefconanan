@@ -6,7 +6,7 @@
 **`Junior Web Developer`**
 
 <h3 align="left">About me:</h3>  
-- 🌍  I'm based in Milan, Italy
+*  🌍  I'm based in Milan, Italy
 
 - 🌱 I’m currently learning **Java, SQL, Springboot**  
   
